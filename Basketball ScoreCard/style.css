@@ -1,0 +1,57 @@
+@font-face {
+    font-family: CursedTimerULiL;
+
+    src: url(CursedTimerULiL.ttf);
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #1b244a;
+}
+
+section {
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    gap: 60%;
+    padding: 30px;
+}
+
+.om {
+    font-size: 60px;
+    color: white;
+}
+
+
+.carde {
+    width: 150px;
+    height: 150px;
+    background-color: #000;
+    color: #f94f6d;
+    text-align: center;
+    font-size: 100px;
+    font-family: CursedTimerULiL;
+}
+
+.card {
+    width: 150px;
+    height: 150px;
+    background-color: #000;
+    color: #f94f6d;
+    text-align: center;
+    font-size: 100px;
+    font-family: CursedTimerULiL;
+}
+
+
+
+
+.btn3 {
+    font-size: 20px;
+}
+
+.high {
+    border: solid green;
+}
